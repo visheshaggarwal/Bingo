@@ -36,6 +36,7 @@ class BingoTicketsActivity : AppCompatActivity(), AdapterView.OnItemClickListene
 
         playerTicketGridAdapters = PlayerTicketGridAdapter(applicationContext, playerTickets!![0], game!!.getPlayerCrossedTicketById(0))
         gv_player_ticket.adapter = playerTicketGridAdapters
+        gv_player_ticket.isExpanded = true
         updatePlayerView()
 
         btn_draw.setOnClickListener(this)

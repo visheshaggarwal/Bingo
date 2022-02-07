@@ -12,17 +12,14 @@
         <activity
             android:name=".ResultActivity"
             android:exported="false"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"/>
         <activity
             android:name=".BingoTicketsActivity"
             android:exported="false"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>

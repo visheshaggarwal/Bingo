@@ -5,9 +5,9 @@
       <map>
         <entry key="app/src/main/res/drawable/default_player_bg.xml" value="0.2105" />
         <entry key="app/src/main/res/drawable/selected_player_bg.xml" value="0.3275" />
-        <entry key="app/src/main/res/layout/activity_bingo_tickets.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_bingo_tickets.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_result.xml" value="0.47685185185185186" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.33" />
         <entry key="app/src/main/res/layout/player_ticket_grid_item.xml" value="0.325" />
         <entry key="app/src/main/res/layout/players_grid.xml" value="0.5635416666666667" />
       </map>
